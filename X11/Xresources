@@ -1,0 +1,50 @@
+! special
+URxvt.foreground:   #c5c8c6
+URxvt.background:   [90]#1d1f21
+URxvt.cursorColor:  #c5c8c6
+
+! black
+URxvt.color0:       #1d1f21
+URxvt.color8:       #969896
+
+! red
+URxvt.color1:       #cc6666
+URxvt.color9:       #cc6666
+
+! green
+URxvt.color2:       #b5bd68
+URxvt.color10:      #b5bd68
+
+! yellow
+URxvt.color3:       #f0c674
+URxvt.color11:      #f0c674
+
+! blue
+URxvt.color4:       #81a2be
+URxvt.color12:      #81a2be
+
+! magenta
+URxvt.color5:       #b294bb
+URxvt.color13:      #b294bb
+
+! cyan
+URxvt.color6:       #8abeb7
+URxvt.color14:      #8abeb7
+
+! white
+URxvt.color7:       #c5c8c6
+URxvt.color15:      #ffffff
+URxvt*font: xft: Noto Sans Mono:size=11, xft:Inconsolata Nerd Font Mono:size=15, xft:DejaVu Sans:size=12
+! URxvt.font: xft:monaco:size=11
+! URxvt.font: xft:DejaVu Sans Mono:autohint=true:size=12,xft:Inconsolata\ for\ Powerline:autohint=true:size=12
+URxvt.scrollBar: false
+URxvt.letterSpace: -1
+
+
+Xft.lcdfilter: lcddefault
+Xft.antialias: true
+Xft.autohint: 0
+Xft.hinting: true
+Xft.hintstyle: hintslight
+Xft.rgba: rgb
+Xft.dpi: 96
